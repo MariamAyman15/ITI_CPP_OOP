@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685148082 source:g:\es\c plus plus\03_tasks\hospital\main.cpp
+	<iostream>
+	<vector>
+
